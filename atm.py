@@ -1,0 +1,4 @@
+available_balance=15000
+withdrawl_amount=5000
+current_balance=available_balance-withdrawl_amount
+print(current_balance)
