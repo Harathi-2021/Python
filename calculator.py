@@ -1,7 +1,9 @@
 x=int(input("Enter the number"))
 y=int(input("Enter the number"))
 if x+y==34:
-    print(f" In calculator subtraction of two numbers={x-y}")
+    print(f" In calculator addition of two numbers={x+y}")
+elif x-y==0:
+    print(f"In subtraction of two numbers ={x-y}")
 elif x*y==40:
     print(f" In calculator multiplication of two numbers ={x*y}")
 elif x/y==10:
