@@ -8,6 +8,6 @@ elif n==3:
 elif n==4:
     print("four")
 elif n==5:
-    print("six")
+    print("four")
 else:
     print("invalid number")
