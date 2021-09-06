@@ -11,4 +11,6 @@ elif mark>=60 and mark<=69:
 elif mark>=50 and mark<=59:
     print("E grade")
 elif mark>=0 and mark<=49:
+    print("fail")
+else:
     print("fake input")
